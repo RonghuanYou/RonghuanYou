@@ -52,8 +52,11 @@ My name is Ronghuan You. I am passionate about learning new technical skills and
 ---
 ### ✅ Github Stats
 <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronghuanyou&&hide=stars&show_icons=true&locale=en" alt="ronghuanyou" />
+</p>
+
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronghuanyou&show_icons=true&locale=en&layout=compact" alt="ronghuanyou" /></p>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronghuanyou&&hide=stars&show_icons=true&locale=en" alt="ronghuanyou" /></p>
+
 
 
