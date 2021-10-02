@@ -49,8 +49,10 @@ My name is Ronghuan You. I am passionate about learning new technical skills and
 ![MicrosoftExcel](https://img.shields.io/badge/MicrosoftExcel-217346.svg?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronghuanyou&show_icons=true&locale=en&layout=compact" alt="ronghuanyou" /></p>
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronghuanyou&show_icons=true&locale=en&layout=compact" alt="ronghuanyou" /></p>
+  
+## Github Stats
 [![ronghuanyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronghuanyou&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
