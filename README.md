@@ -3,10 +3,14 @@ My name is Ronghuan You. I am passionate about learning new technical skills and
 
 ---
 ### 🌱 My Values
-🙌 Share interesting knowledge I learned
+<p>🙌 Share interesting knowledge I learned</p>
+<p>🔆 Open to new ideas</p>
+<p>🤝 Collaborate with others</p>
+
 
 ---
 ### 📫 Message Me
+![Email](https://img.shields.io/badge/email-your1@uci.edu-ffd200.svg?style=for-the-badge&logoColor=white)
 <a href="https://www.linkedin.com/in/ronghuan-you/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 
 ---
@@ -57,6 +61,3 @@ My name is Ronghuan You. I am passionate about learning new technical skills and
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronghuanyou&show_icons=true&locale=en&layout=compact" alt="ronghuanyou" /></p>
-
-
-
