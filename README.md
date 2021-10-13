@@ -19,7 +19,6 @@ My name is Ronghuan You. I am passionate about learning new technical skills and
 ![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-A9A9A9.svg?style=for-the-badge&logo=javascript&logoColor=%F7DF1E)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 ### Frontend Development
